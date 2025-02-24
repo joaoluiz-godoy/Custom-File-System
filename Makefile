@@ -1,3 +1,4 @@
+##Instructions to run Program##
 
 SRCS := $(wildcard *.c)
 OBJS := $(SRCS:.c=.o)
